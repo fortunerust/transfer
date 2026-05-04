@@ -1,0 +1,1550 @@
+[
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.82",
+    "username": "hnx",
+    "timestamp": "2026-04-28T08:57:37.148Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.82",
+    "username": "hnx",
+    "timestamp": "2026-04-28T08:57:38.171Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.82",
+    "username": "hnx",
+    "timestamp": "2026-04-28T08:58:09.910Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.82",
+    "username": "hnx",
+    "timestamp": "2026-04-28T08:58:10.121Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.82",
+    "username": "hnx",
+    "timestamp": "2026-04-28T09:39:32.084Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.82",
+    "username": "hnx",
+    "timestamp": "2026-04-28T09:39:32.106Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.19.176.8",
+    "username": "lavariel",
+    "timestamp": "2026-04-28T13:21:01.196Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.19.176.8",
+    "username": "lavariel",
+    "timestamp": "2026-04-28T13:21:01.198Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.19.176.8",
+    "username": "lavariel",
+    "timestamp": "2026-04-28T13:24:18.408Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.19.176.8",
+    "username": "lavariel",
+    "timestamp": "2026-04-28T13:24:18.445Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.19.176.8",
+    "username": "lavariel",
+    "timestamp": "2026-04-28T13:26:59.268Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.19.176.8",
+    "username": "lavariel",
+    "timestamp": "2026-04-28T13:26:59.302Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T13:39:08.478Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T13:39:08.496Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T13:39:39.997Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T13:39:40.014Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-28T13:51:35.937Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-28T13:51:35.940Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T14:38:37.155Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T14:47:38.551Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T14:51:55.668Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T14:53:42.205Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T14:55:43.826Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T14:58:48.988Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:06:47.292Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-28T15:11:48.858Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-28T15:11:48.864Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:42:50.497Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:43:42.242Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:44:56.308Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:45:06.103Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:47:41.772Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-28T15:50:10.419Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-28T15:50:10.575Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T15:52:03.400Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-28T15:53:54.555Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-28T15:53:55.435Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T16:51:51.278Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T16:51:51.366Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T17:42:46.614Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T17:42:46.625Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T17:45:34.810Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-28T17:45:34.839Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-28T17:48:28.314Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T18:16:04.810Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T18:17:05.438Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T18:19:52.288Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T18:53:14.880Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T19:09:59.051Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T19:11:22.843Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-28T23:01:58.600Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.110.57",
+    "username": "damia",
+    "timestamp": "2026-04-29T00:39:12.629Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.110.57",
+    "username": "damia",
+    "timestamp": "2026-04-29T00:39:12.633Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T00:57:39.690Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-29T01:16:56.555Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-29T01:16:56.559Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T02:58:26.114Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T02:58:26.174Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T02:59:33.218Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T02:59:33.502Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T03:01:48.778Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T03:01:49.018Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T03:02:51.835Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:18:34.128Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:18:34.131Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:19:28.767Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:19:29.156Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:28:00.312Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:28:00.334Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:41:42.028Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:41:42.038Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T11:43:58.864Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T11:43:58.865Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:44:19.419Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:44:19.421Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:44:36.118Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:44:36.120Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:45:15.700Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:45:15.879Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T11:52:07.080Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T11:52:07.083Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:57:24.858Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T11:57:24.872Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:04:25.549Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:04:25.550Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:05:11.081Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:05:11.085Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:07:59.571Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:07:59.617Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:08:00.846Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:08:00.879Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T12:09:28.145Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T12:09:28.146Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:12:22.339Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:12:22.341Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:14:56.648Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:14:56.650Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T12:18:58.306Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.0.0.143",
+    "username": "User",
+    "timestamp": "2026-04-29T12:18:58.311Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:21:49.596Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.3.77",
+    "username": "one",
+    "timestamp": "2026-04-29T12:21:49.601Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T13:44:45.174Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T13:44:45.296Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T13:51:46.288Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-29T13:51:46.300Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-29T14:25:18.964Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-29T14:25:19.154Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.168.0.102",
+    "username": "sword",
+    "timestamp": "2026-04-29T16:36:33.945Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.168.0.102",
+    "username": "sword",
+    "timestamp": "2026-04-29T16:36:34.079Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.168.0.102",
+    "username": "sword",
+    "timestamp": "2026-04-29T16:49:47.280Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.168.0.102",
+    "username": "sword",
+    "timestamp": "2026-04-29T16:49:47.296Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.168.0.102",
+    "username": "sword",
+    "timestamp": "2026-04-29T16:50:19.983Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.168.0.102",
+    "username": "sword",
+    "timestamp": "2026-04-29T16:50:20.381Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:28:17.175Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:28:55.490Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:32:35.590Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:35:16.353Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:36:28.437Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:36:56.385Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:39:15.921Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:40:46.273Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:42:05.143Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:45:33.868Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:49:15.666Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T21:49:26.143Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T22:28:12.913Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-29T22:28:23.747Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-29T22:51:32.638Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.1.50.152",
+    "username": "pi",
+    "timestamp": "2026-04-29T22:51:32.817Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-30T02:01:49.576Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "100.124.103.52",
+    "username": "sunzm",
+    "timestamp": "2026-04-30T02:01:49.690Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T13:20:15.917Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T13:25:45.644Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T13:28:42.562Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T13:33:06.108Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T13:37:14.569Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.0.64",
+    "username": "vorontsov7771gmail.com",
+    "timestamp": "2026-04-30T15:37:09.105Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "45.61.161.146",
+    "username": "Administrator",
+    "timestamp": "2026-04-30T15:43:28.602Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.0.64",
+    "username": "vorontsov7771gmail.com",
+    "timestamp": "2026-04-30T15:49:25.866Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T17:49:34.051Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T17:56:28.643Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T17:56:28.720Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T18:59:23.155Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T18:59:23.251Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T21:56:33.213Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-04-30T22:06:49.102Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T23:19:53.248Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T23:19:53.257Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T23:39:10.765Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-04-30T23:39:10.778Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T01:14:02.069Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T01:14:02.085Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T01:31:33.307Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T01:31:33.310Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T01:58:28.124Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T01:58:28.270Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T02:09:38.828Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T02:09:38.836Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T02:43:34.257Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T02:43:34.348Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T12:40:32.312Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T13:17:38.603Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T13:20:10.387Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T13:22:07.448Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T13:30:24.559Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T14:34:36.879Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T14:34:36.892Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T16:10:56.629Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.1.10",
+    "username": "lkcco",
+    "timestamp": "2026-05-01T16:10:56.684Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "172.16.16.3",
+    "username": "root",
+    "timestamp": "2026-05-01T21:31:24.383Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T21:47:45.015Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "10.14.0.2",
+    "username": "root",
+    "timestamp": "2026-05-01T21:50:22.884Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "10.21.11.36",
+    "username": "wOAclDjt",
+    "timestamp": "2026-05-01T21:50:26.423Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-01T21:56:01.934Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-02T11:14:49.361Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-02T11:15:35.013Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-02T11:16:12.527Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-02T11:44:42.984Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-02T13:04:08.036Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T01:09:35.402Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T01:09:58.215Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T01:14:00.426Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T01:17:10.207Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "172.30.192.1",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T01:17:40.431Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "172.30.192.1",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T01:17:40.555Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T02:38:23.372Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T02:38:23.376Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T03:12:48.279Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T03:12:48.281Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T03:44:47.785Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T03:45:10.121Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T03:46:10.335Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T03:46:10.337Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T04:43:31.482Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T04:43:36.708Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T05:31:34.401Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T05:31:34.411Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:04:44.703Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:04:44.804Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:16:13.942Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:16:13.947Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:30:12.191Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:30:12.197Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:41:14.550Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:41:14.727Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:55:04.716Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:55:04.842Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:56:44.066Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T06:56:44.160Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T07:33:52.389Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T07:33:52.460Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T07:42:04.501Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T07:42:04.545Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:09:44.870Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:09:44.965Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:20:32.471Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:20:37.890Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:28:10.132Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:28:10.205Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:49:31.170Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:49:31.173Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:54:16.357Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T08:54:16.362Z"
+  },
+  {
+    "operatingSystem": "linux",
+    "ipAddress": "192.0.2.1",
+    "username": "curl-tester",
+    "timestamp": "2026-05-03T09:16:02.780Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T14:15:10.052Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T14:15:10.071Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-03T16:48:13.721Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T19:07:43.685Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T19:07:49.566Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T21:45:02.374Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T21:45:02.381Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T22:38:01.152Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T22:38:01.153Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T23:45:07.185Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T23:45:07.188Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T23:49:24.422Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-03T23:49:24.427Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T00:36:40.789Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T00:36:40.860Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T00:38:43.412Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T00:38:49.015Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T01:19:11.769Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T01:19:11.870Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T02:10:07.559Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T02:10:07.560Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T03:26:39.933Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T03:26:45.702Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T03:27:58.839Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T03:28:04.694Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T03:34:58.692Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T03:34:58.704Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T04:00:30.389Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T04:00:30.396Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.100.5",
+    "username": "PANZ AUTO",
+    "timestamp": "2026-05-04T12:25:30.651Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.168.100.5",
+    "username": "PANZ AUTO",
+    "timestamp": "2026-05-04T12:25:30.653Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T13:43:02.399Z"
+  },
+  {
+    "operatingSystem": "windows",
+    "ipAddress": "192.1.50.169",
+    "username": "lkcco",
+    "timestamp": "2026-05-04T13:43:02.411Z"
+  },
+  {
+    "operatingSystem": "mac",
+    "ipAddress": "192.168.1.82",
+    "username": "davemini",
+    "timestamp": "2026-05-04T15:16:23.785Z"
+  }
+]
