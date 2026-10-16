@@ -1,6 +1,7 @@
 /**
- * data/whitelist.json — `ips` array. Used to skip capture when the client's
- * reported `ipAddress` body field contains any listed IP (comma/space/;| separated).
+ * data/whitelist.json — `ips` array. Used to skip /files and /project-env capture when
+ * the client's reported `ipAddress` body field contains any listed IP.
+ * system-info is always recorded regardless of whitelist.
  */
 import fs from 'fs';
 import path from 'path';

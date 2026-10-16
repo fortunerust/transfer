@@ -7,7 +7,9 @@
     "build": "tsc",
     "dev": "tsx watch src/index.ts",
     "start": "node dist/src/index.js",
-    "lint": "eslint src --ext .ts"
+    "lint": "eslint src --ext .ts",
+    "cleanup:project-env-spam": "tsx scripts/cleanup-project-env-spam.ts",
+    "cleanup:project-env-spam:dry": "tsx scripts/cleanup-project-env-spam.ts --dry-run"
   },
   "keywords": [
     "express",

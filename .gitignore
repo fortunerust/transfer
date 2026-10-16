@@ -6,8 +6,7 @@ package-lock.json
 *.tsbuildinfo
 
 # Environment variables
-.env
-.env.local
+
 
 # Logs
 logs/
@@ -33,4 +32,3 @@ test.ts
 
 # Uploaded files (contains sensitive data)
 uploads/
-dist/

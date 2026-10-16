@@ -1,0 +1,1 @@
+{"version":3,"file":"SystemInfo.d.ts","sourceRoot":"","sources":["../../../src/models/SystemInfo.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,EAAE,EAAE,QAAQ,EAAU,MAAM,UAAU,CAAC;AAEtD,MAAM,WAAW,WAAY,SAAQ,QAAQ;IAC3C,eAAe,EAAE,MAAM,CAAC;IACxB,SAAS,EAAE,MAAM,CAAC;IAClB,QAAQ,EAAE,MAAM,CAAC;IACjB,SAAS,EAAE,IAAI,CAAC;CACjB;AA6BD,eAAO,MAAM,UAAU;;;;OAGtB,CAAC"}
